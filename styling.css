@@ -1,0 +1,36 @@
+.jumbotron {
+  padding-right: 5px;
+  padding-left: 5px;
+  margin-top: 0px;
+}
+
+.progress {
+  margin-top: 10px;
+  width: 90%;
+  height: 25px;
+  position: relative;
+}
+
+.progress span {
+    position: absolute;
+    display: block;
+    width: 100%;
+    color: black;
+ }
+
+.navbar {
+  background-color: #FF9403;
+  border-color: #FF500A;
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
+  margin-bottom: 0px;
+}
+
+.navbar-default .navbar-brand {
+  color: #000000;
+}
+
+img {
+  position: relative;
+  width: 90%;
+}
